@@ -9,7 +9,7 @@
     It should be a string containing your best definition of what Git is.
 */
 
-//CODE HERE
+let gitDefinition = "Git is a tool developers use to track changes made to their code.";
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -17,7 +17,7 @@
     It should be a string containing your best definition of what GitHub is.
 */
 
-//CODE HERE
+let gitHubDefinition = "Its a website that help software developers share their code and collaborate with other of developers.";
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -25,7 +25,7 @@
     It should be a string containing your best definition of what 'git init' does.
 */
 
-//CODE HERE
+let gitInitDefinition = "Git init is the command used in git bash or on the command line to create or initialize a repository.";
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -33,7 +33,7 @@
     It should be a string containing your best definition of what 'git clone' does.
 */
 
-//CODE HERE
+let gitCloneDefinition = "Git clone is the command used to copy(essentially duplicate) a repository to be used elsewhere";
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -41,7 +41,7 @@
     It should be a string containing your best definition of what 'git status' does.
 */
 
-//CODE HERE
+let gitStatusDefinition = "Git status is a command that returns a status change to a file(s) in your repository. A red file text indicates a change had been and green indicates no changes has been made.";
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -52,7 +52,7 @@
     It should be a string containing the code to add all files.
 */
 
-//CODE HERE
+let gitAddDefinition = "Git add is a command that manually adds or updates changed files to your repository for your next commit";
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -63,7 +63,7 @@
     It should be a string containing the code to commit using the message "initial commit".
 */
 
-//CODE HERE
+let gitCommitDefinition = "Git commit officially attaches a message to all relevant changes made to your repository.";
 
 
 //////////////////PROBLEM 8////////////////////
@@ -72,4 +72,5 @@
     It should be a string containing your best definition of what 'git push' does.
 */
 
-//CODE HERE
+
+let gitPushDefinition = "This is the command used to move your repository from its local address to any URL(remote)";
